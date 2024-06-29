@@ -4,7 +4,7 @@
 apt update && apt upgrade -y
 pkg install git
 pkg install python
-rm -rf TOKEN
+rm -rf SAMIR111
 git clone https://github.com/ZEROX-149/SAMIR-111
 cd SAMIR111
 python FILE.py
